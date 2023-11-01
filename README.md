@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Kumar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Web Dev and Machine Learning
 - 💞️ I’m looking to collaborate on various projects.
 
 <!---
