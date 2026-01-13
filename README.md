@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mayank Kumar
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Dev and Machine Learning
+- 👋 Hi, I’m Mayank Kumar.
+- 👀 I know how to code.
+- 🌱 I am having 2+ years of experience with GoLang.
 - 💞️ I’m looking to collaborate on various projects.
 
 <!---
